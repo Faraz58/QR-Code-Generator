@@ -1,11 +1,9 @@
 ## About the application
 <p style="font-size:18px">This is a Web Application writed with HTML/CSS & JS with backend Python<br><br>
 You can generate a lot of QR Codes with this simple way you can add your text<br>
-and after you clicking the button the image will apear.So you ready to scan.
+and after you clicking the button the image will apear.
 <br>
-You can scan in this <a href="https://online-barcode-reader.inliteresearch.com">website</a></p>
-<b>If you want to download this application and run it directly without to change the code just click <a href="https://www.dropbox.com/s/3azisnn95hakjqp/QRCode.exe?dl=0">here</a>!
-<img src='/qr1.png'>
+
 
 ## Getting Started
 - Clone the repo and cd into the directory
